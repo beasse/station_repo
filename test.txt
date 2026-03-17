@@ -1,1 +1,2 @@
 Můj první soubor
+druhý řádek text
